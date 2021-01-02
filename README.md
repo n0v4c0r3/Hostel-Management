@@ -21,7 +21,7 @@
 [Download Now](https://novacore.stores.instamojo.com/product/246770/hostel-management-system/)
 
 
-# feature
+# features 
 - Add / Remove / Edit Hostel
 - interactive user-friendly simple dashboard
 - Add / Remove / Edit Hostel
