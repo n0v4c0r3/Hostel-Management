@@ -1,6 +1,7 @@
-# Hostelmanagement
-  - php
-  - mysql
+# Hostel Management
+  - PHP
+  - MySQL
+
 # HMS
 
 
@@ -10,33 +11,34 @@
 ![alt text](/screenshot/dashboard.png)
 ![alt text](/screenshot/rooms.png)
 
-# Default data!
+# Default data
 
   - database name: hms_p
   - default username : admin@admin.com 
-  - pass: admin
+  - password: admin
 
-# Downlaod This Project : 
+# Download this project : 
 
 [Download Now](https://novacore.stores.instamojo.com/product/246770/hostel-management-system/)
 
 
-# features 
-- Add / Remove / Edit Hostel
-- interactive user-friendly simple dashboard
-- Add / Remove / Edit Hostel
-- Assign / delete students to room
-- Single Double room selection
+# Features 
+- Add/Remove/Edit hostel
+- Interactive and user-friendly simple dashboard
+- Assign/delete students to rooms
+- Single/Double room selection
 - Set price for each room type
 - Manage student course
 - Manage student
 - Billing system
-- payment on when need
-- payment status
-- pdf bill generate with last payment details
-- add new admin
-- remove admin
-- set current admin name on header
-- flat ui
-- all coded in bootstrap, php and mysql
-- mobile responsive
+- Payment on when need
+- Payment status
+- Generate PDF bill with last payment details
+- Add new admin
+- Remove admin
+- Set current admin name on the header
+- Flat UI
+- All coded in Bootstrap, PHP and MySQL
+- Mobile responsive
+
+
